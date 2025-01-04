@@ -46,24 +46,135 @@
         </div>
       </div>
 
-      <div class="container bg-secondary text-white mb-5">
+      <div class="container bg-secondary text-white mb-3">
         <h1 class="text-center py-3">Data Statistik</h1>
         <div class="row">
           <div class="col">
             <h5 class="text-center">Jumlah Siswa</h5>
-            <h2 class="text-center display-3">1500</h2>
+            <h2 class="text-center display-5">1500</h2>
           </div>
           <div class="col">
             <h5 class="text-center">Guru</h5>
-            <h2 class="text-center display-3">85</h2>
+            <h2 class="text-center display-5">85</h2>
           </div>
           <div class="col">
             <h5 class="text-center">Rombel</h5>
-            <h2 class="text-center display-3">45</h2>
+            <h2 class="text-center display-5">45</h2>
           </div>
           <div class="col">
             <h5 class="text-center">Tenaga Administrasi</h5>
-            <h2 class="text-center display-3">10</h2>
+            <h2 class="text-center display-5">10</h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <h1 class="text-center py-3">Program Keahlian</h1>
+
+          <div class="col-lg-6 d-flex justify-content-center">
+            <div class="card mb-3 shadow-lg" style="max-width: 540px">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img
+                    src="/assets/img/tebeesem.png"
+                    class="img-fluid rounded-start"
+                    alt="..."
+                  />
+                </div>
+                <div class="col-md-8 d-flex align-items-center">
+                  <div class="card-body">
+                    <h5 class="card-title align-self-center text-danger">
+                      Teknik Bisnis Sepeda Motor
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 d-flex justify-content-center">
+            <div class="card mb-3 shadow-lg" style="max-width: 540px">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img
+                    src="/assets/img/pepeelge.png"
+                    class="img-fluid rounded-start"
+                    alt="..."
+                  />
+                </div>
+                <div class="col-md-8 d-flex align-items-center">
+                  <div class="card-body">
+                    <h5 class="card-title text-success">
+                      Pengembangan Perangkat Lunak&Gim
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-12 d-flex justify-content-center">
+            <div class="card mb-3 shadow-lg" style="max-width: 540px">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img
+                    src="/assets/img/tejekate.png"
+                    class="img-fluid rounded-start"
+                    alt="..."
+                  />
+                </div>
+                <div class="col-md-8 d-flex align-items-center">
+                  <div class="card-body">
+                    <h5 class="card-title text-primary">
+                      Teknik Jaringan Komputer&Telekomunikasi
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 d-flex justify-content-center">
+            <div class="card mb-3 shadow-lg" style="max-width: 540px">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img
+                    src="/assets/img/dekaep.png"
+                    class="img-fluid rounded-start"
+                    alt="..."
+                  />
+                </div>
+                <div class="col-md-8 d-flex align-items-center">
+                  <div class="card-body">
+                    <h5 class="card-title text-warning">
+                      Desain Komunikasi Visual
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 d-flex justify-content-center">
+            <div class="card mb-3 shadow-lg" style="max-width: 540px">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img
+                    src="/assets/img/teoi.png"
+                    class="img-fluid rounded-start"
+                    alt="..."
+                  />
+                </div>
+                <div class="col-md-8 d-flex align-items-center">
+                  <div class="card-body">
+                    <h5 class="card-title text-secondary">
+                      Teknik Otomasi Industri
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
